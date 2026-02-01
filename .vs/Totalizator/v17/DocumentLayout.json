@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\murum\\source\\repos\\Totalizator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EBD26F1-B4D7-4796-A679-82575EDD8E53}|Totalizator.csproj|c:\\users\\murum\\source\\repos\\totalizator\\eventdetailsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EBD26F1-B4D7-4796-A679-82575EDD8E53}|Totalizator.csproj|solutionrelative:eventdetailsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EBD26F1-B4D7-4796-A679-82575EDD8E53}|Totalizator.csproj|c:\\users\\murum\\source\\repos\\totalizator\\eventdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EBD26F1-B4D7-4796-A679-82575EDD8E53}|Totalizator.csproj|solutionrelative:eventdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EBD26F1-B4D7-4796-A679-82575EDD8E53}|Totalizator.csproj|c:\\users\\murum\\source\\repos\\totalizator\\mainadminform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EBD26F1-B4D7-4796-A679-82575EDD8E53}|Totalizator.csproj|solutionrelative:mainadminform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EBD26F1-B4D7-4796-A679-82575EDD8E53}|Totalizator.csproj|c:\\users\\murum\\source\\repos\\totalizator\\mainadminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EBD26F1-B4D7-4796-A679-82575EDD8E53}|Totalizator.csproj|solutionrelative:mainadminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EBD26F1-B4D7-4796-A679-82575EDD8E53}|Totalizator.csproj|c:\\users\\murum\\source\\repos\\totalizator\\mainuserform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EBD26F1-B4D7-4796-A679-82575EDD8E53}|Totalizator.csproj|solutionrelative:mainuserform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EBD26F1-B4D7-4796-A679-82575EDD8E53}|Totalizator.csproj|c:\\users\\murum\\source\\repos\\totalizator\\mainuserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EBD26F1-B4D7-4796-A679-82575EDD8E53}|Totalizator.csproj|solutionrelative:mainuserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EBD26F1-B4D7-4796-A679-82575EDD8E53}|Totalizator.csproj|c:\\users\\murum\\source\\repos\\totalizator\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EBD26F1-B4D7-4796-A679-82575EDD8E53}|Totalizator.csproj|solutionrelative:loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EBD26F1-B4D7-4796-A679-82575EDD8E53}|Totalizator.csproj|c:\\users\\murum\\source\\repos\\totalizator\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EBD26F1-B4D7-4796-A679-82575EDD8E53}|Totalizator.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EBD26F1-B4D7-4796-A679-82575EDD8E53}|Totalizator.csproj|c:\\users\\murum\\source\\repos\\totalizator\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8EBD26F1-B4D7-4796-A679-82575EDD8E53}|Totalizator.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EBD26F1-B4D7-4796-A679-82575EDD8E53}|Totalizator.csproj|c:\\users\\murum\\source\\repos\\totalizator\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EBD26F1-B4D7-4796-A679-82575EDD8E53}|Totalizator.csproj|solutionrelative:datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EBD26F1-B4D7-4796-A679-82575EDD8E53}|Totalizator.csproj|c:\\users\\murum\\source\\repos\\totalizator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EBD26F1-B4D7-4796-A679-82575EDD8E53}|Totalizator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventDetailsForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\murum\\source\\repos\\Totalizator\\EventDetailsForm.Designer.cs",
+              "RelativeDocumentMoniker": "EventDetailsForm.Designer.cs",
+              "ToolTip": "C:\\Users\\murum\\source\\repos\\Totalizator\\EventDetailsForm.Designer.cs",
+              "RelativeToolTip": "EventDetailsForm.Designer.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAuwL8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T13:31:55.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventDetailsForm.cs",
+              "DocumentMoniker": "C:\\Users\\murum\\source\\repos\\Totalizator\\EventDetailsForm.cs",
+              "RelativeDocumentMoniker": "EventDetailsForm.cs",
+              "ToolTip": "C:\\Users\\murum\\source\\repos\\Totalizator\\EventDetailsForm.cs",
+              "RelativeToolTip": "EventDetailsForm.cs",
+              "ViewState": "AgIAALIAAAAAAAAAAAAuwMIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T13:30:47.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainAdminForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\murum\\source\\repos\\Totalizator\\MainAdminForm.Designer.cs",
+              "RelativeDocumentMoniker": "MainAdminForm.Designer.cs",
+              "ToolTip": "C:\\Users\\murum\\source\\repos\\Totalizator\\MainAdminForm.Designer.cs",
+              "RelativeToolTip": "MainAdminForm.Designer.cs",
+              "ViewState": "AgIAAP8AAAAAAAAAAAAuwBYBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T13:30:17.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainAdminForm.cs",
+              "DocumentMoniker": "C:\\Users\\murum\\source\\repos\\Totalizator\\MainAdminForm.cs",
+              "RelativeDocumentMoniker": "MainAdminForm.cs",
+              "ToolTip": "C:\\Users\\murum\\source\\repos\\Totalizator\\MainAdminForm.cs",
+              "RelativeToolTip": "MainAdminForm.cs",
+              "ViewState": "AgIAAMABAAAAAAAAAAAqwNYBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T13:27:42.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainUserForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\murum\\source\\repos\\Totalizator\\MainUserForm.Designer.cs",
+              "RelativeDocumentMoniker": "MainUserForm.Designer.cs",
+              "ToolTip": "C:\\Users\\murum\\source\\repos\\Totalizator\\MainUserForm.Designer.cs",
+              "RelativeToolTip": "MainUserForm.Designer.cs",
+              "ViewState": "AgIAAPoAAAAAAAAAAAAuwBEBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T13:26:57.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainUserForm.cs",
+              "DocumentMoniker": "C:\\Users\\murum\\source\\repos\\Totalizator\\MainUserForm.cs",
+              "RelativeDocumentMoniker": "MainUserForm.cs",
+              "ToolTip": "C:\\Users\\murum\\source\\repos\\Totalizator\\MainUserForm.cs",
+              "RelativeToolTip": "MainUserForm.cs",
+              "ViewState": "AgIAAFoBAAAAAAAAAADwv7gBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T13:26:31.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\murum\\source\\repos\\Totalizator\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\murum\\source\\repos\\Totalizator\\LoginForm.Designer.cs",
+              "RelativeToolTip": "LoginForm.Designer.cs",
+              "ViewState": "AgIAAOgAAAAAAAAAAAAuwP8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T13:25:34.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\murum\\source\\repos\\Totalizator\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "C:\\Users\\murum\\source\\repos\\Totalizator\\LoginForm.cs",
+              "RelativeToolTip": "LoginForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T13:24:38.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\murum\\source\\repos\\Totalizator\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "C:\\Users\\murum\\source\\repos\\Totalizator\\LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T13:24:31.326Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataManager.cs",
+              "DocumentMoniker": "C:\\Users\\murum\\source\\repos\\Totalizator\\DataManager.cs",
+              "RelativeDocumentMoniker": "DataManager.cs",
+              "ToolTip": "C:\\Users\\murum\\source\\repos\\Totalizator\\DataManager.cs",
+              "RelativeToolTip": "DataManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T13:10:34.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\murum\\source\\repos\\Totalizator\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\murum\\source\\repos\\Totalizator\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T09:31:34.007Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

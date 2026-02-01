@@ -1,0 +1,9 @@
+C:\Totalizator\Totalizator.exe
+C:\Totalizator\Totalizator.dll
+C:\Totalizator\Totalizator.deps.json
+C:\Totalizator\Totalizator.runtimeconfig.json
+C:\Totalizator\Totalizator.pdb
+C:\Totalizator\BCrypt.Net-Next.dll
+C:\Totalizator\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Totalizator\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Totalizator\Npgsql.dll
